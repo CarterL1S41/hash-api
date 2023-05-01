@@ -1,0 +1,11 @@
+LOGIN CODES
+200 - OK
+400 - Password is incorrect
+401 - Username is incorrect
+2010 - Password check is valid
+2011 - Username check is invalid
+2012 - Password check is invalid
+2013 - Session is invalid
+2014 - OTP check is valid
+2015 - OTP check is invalid
+2016 - OTP account not found
